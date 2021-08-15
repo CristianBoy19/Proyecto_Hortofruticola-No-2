@@ -14,4 +14,11 @@
    box-sizing: border-box;
    overflow: hidden;
 }
+
+.Cabecera {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  height: 220px;
+}
    
