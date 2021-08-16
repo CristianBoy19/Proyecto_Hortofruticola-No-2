@@ -19,10 +19,22 @@
   display: flex;
   justify-content: space-between;
   position: relative;
-  height: 220px; 
+  height: 100px; 
 }
 
 .Cabecera img{
- width:100px
+ width:130px;
+}
+
+.cabecera_h1 {
+ position: absolute;
+ top: 40px;
+ left 150px;
+}
+
+.cabecera_frase {
+ position: absolute;
+ top: 70px;
+ left: 235px;
 }
    
