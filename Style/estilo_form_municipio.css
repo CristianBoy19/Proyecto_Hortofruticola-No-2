@@ -52,3 +52,19 @@ body {
   border: 1px solid darkgray;
 }
 
+.input-50 {
+ width: 50%;
+}
+
+.btn-insertar {
+  background:crimson;
+  color: #fff;
+  margin: auto;
+  padding: 10px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-insertar: active {
+  transform: scale(1.05);
+}
