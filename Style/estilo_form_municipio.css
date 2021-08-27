@@ -33,3 +33,22 @@ body {
   border-top-right-radius:7px;
   border-bottom: 10px solid crimson;
 }
+
+.contenedor-input {
+  padding: 5px 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.tabla-municipios {
+  text-align: left;
+  border: 1px solid darkgray;
+  width: 100%;
+}
+
+.Tabla_botones {
+  text-align: center;
+  border: 1px solid darkgray;
+}
+
