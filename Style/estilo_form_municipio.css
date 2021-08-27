@@ -9,6 +9,11 @@ body {
   background:#204862
 }
 
+.contenedor {
+  color: #fff;
+  text-align: center;
+}
+
 .form-municipio {
   width: 60%;
   max-width: 500px;
