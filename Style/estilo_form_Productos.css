@@ -22,7 +22,7 @@ body {
   border-radius: 7px;
 }
 
-.titulo-form-Producto {
+.titulo-form-Productos {
   background: #4E94AB;
   color: #fff;
   padding: 8px;
@@ -41,7 +41,7 @@ body {
   justify-content: space-between;
 }
 
-.tabla-Producto {
+.tabla-Productos {
   text-align: left;
   border: 1px solid darkgray;
   width: 100%;
