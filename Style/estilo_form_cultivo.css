@@ -14,7 +14,7 @@ body {
   text-align: center;
 }
 
-.form-Cultivo {
+.form-cultivos {
   width: 60%;
   max-width: 500px;
   margin: auto;
@@ -22,7 +22,7 @@ body {
   border-radius: 7px;
 }
 
-.titulo-form-Cultivo {
+.titulo-form-cultivos{
   background: #4E94AB;
   color: #fff;
   padding: 8px;
@@ -41,7 +41,7 @@ body {
   justify-content: space-between;
 }
 
-.tabla-Cultivo {
+.tabla-cultivos {
   text-align: left;
   border: 1px solid darkgray;
   width: 100%;
