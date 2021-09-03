@@ -130,6 +130,6 @@ body {
   border-radius: 7px;
 }
 
-.btn-Retornar: active {
+.btn-Retornar: active { 
   transform: scale(1.05);
 }
