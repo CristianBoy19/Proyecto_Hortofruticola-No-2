@@ -251,6 +251,21 @@ label{
    .btn_Productos: active {
      transform: scale(1.05);
   }
+
+}
+
+.btn_Comerciante {
+   background: #188B37;
+   color: #fff;
+   margin:auto;
+   padding: 10px 40px;
+   cursor: pointer;
+   border-radius: 7px;
+  }
+    
+   .btn_Comerciante: active {
+     transform: scale(1.05);
+  }
 /*************************/
 
 .espacio {
