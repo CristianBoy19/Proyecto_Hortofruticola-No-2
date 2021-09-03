@@ -266,6 +266,19 @@ label{
    .btn_Comerciante: active {
      transform: scale(1.05);
   }
+
+.btn_Tiempo_Cosecha{
+   background: #188B37;
+   color: #fff;
+   margin:auto;
+   padding: 10px 40px;
+   cursor: pointer;
+   border-radius: 7px;
+  }
+    
+   .btn_Tiempo_Cosecha: active {
+     transform: scale(1.05);
+  }
 /*************************/
 
 .espacio {
