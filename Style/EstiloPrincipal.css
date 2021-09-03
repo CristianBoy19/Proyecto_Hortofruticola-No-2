@@ -252,9 +252,7 @@ label{
      transform: scale(1.05);
   }
 
-}
-
-.btn_Comerciante {
+.btn_Comerciante{
    background: #188B37;
    color: #fff;
    margin:auto;
@@ -266,6 +264,7 @@ label{
    .btn_Comerciante: active {
      transform: scale(1.05);
   }
+
 
 .btn_Tiempo_Cosecha{
    background: #188B37;
