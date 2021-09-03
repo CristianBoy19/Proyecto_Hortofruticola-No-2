@@ -200,6 +200,19 @@ label{
      transform: scale(1.05);
   }
 
+.btn_Cultivos {
+   background: #188B37;
+   color: #fff;
+   margin:auto;
+   padding: 10px 40px;
+   cursor: pointer;
+   border-radius: 7px;
+  }
+    
+   .btn_Cultivos: active {
+     transform: scale(1.05);
+  }
+
 /*************************/
 
 .espacio {
