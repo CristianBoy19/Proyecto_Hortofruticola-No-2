@@ -1,1 +1,135 @@
+* {
+  box-sizing: border-box;
+}
 
+
+body {
+  margin:0;
+  font_family:sans-serif;
+  background:#204862
+}
+
+.contenedor {
+  color: #fff;
+  text-align: center;
+}
+
+.form-Clientes {
+  width: 60%;
+  max-width: 500px;
+  margin: auto;
+  background: #d6e6ed;
+  border-radius: 7px;
+}
+
+.titulo-form-Clientes {
+  background: #4E94AB;
+  color: #fff;
+  padding: 8px;
+  text-align: center;
+  font-weight: 100px;
+  font-size: 30px;
+  border-top-left-radius: 7px;
+  border-top-right-radius:7px;
+  border-bottom: 10px solid crimson;
+}
+
+.contenedor-input {
+  padding: 5px 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.tabla-Clientes {
+  text-align: left;
+  border: 1px solid darkgray;
+  width: 100%;
+}
+
+.Tabla_botones {
+  text-align: center;
+  border: 1px solid darkgray;
+}
+
+.input-50 {
+ width: 50%;
+}
+
+.btn-Insertar {
+  background:crimson;
+  color: #fff;
+  margin: auto;
+  padding: 10px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-Insertar: active {
+  transform: scale(1.05);
+}
+
+.btn-Modificar {
+  background:#188B37;
+  color: #fff;
+  margin: auto;
+  padding: 10px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-Modificar: active {
+  transform: scale(1.05);
+}
+
+.btn-Buscar {
+  background:#202C83;
+  color: #fff;
+  margin: auto;
+  padding: 10px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-Buscar: active {
+  transform: scale(1.05);
+}
+
+.btn-Eliminar {
+  background:#F05D00;
+  color: #fff;
+  margin: auto;
+  padding: 10px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-Eliminar: active {
+  transform: scale(1.05);
+}
+
+.btn-Limpiar {
+  background:black;
+  color: #fff;
+  margin: auto;
+  padding: 10px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-Limpiar: active {
+  transform: scale(1.05);
+}
+
+.btn-Retornar {
+  background:#202c83;
+  color: #fff;
+  margin: auto;
+  padding: 10px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-Retornar: active {
+  transform: scale(1.05);
+}
