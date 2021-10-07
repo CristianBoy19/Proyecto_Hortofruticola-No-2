@@ -337,8 +337,9 @@ label{
    }
     
      .Cabecera img {
-      width: 95px;
-      heigth: 80px;
+      position: absolute;
+     top: 40px;
+     left: 100px;
     }
      
     .Cabecera_h1 {
